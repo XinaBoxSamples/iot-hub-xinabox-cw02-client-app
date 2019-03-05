@@ -17,7 +17,7 @@ Follow [this page](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create
 ### Connect with a physical SL06(APDS-9960)
 You can follow the image to connect your SL06(APDS-9960) with your XinaBox CW02.
 
-![cw02_sl06_ip01.png](media/iot-hub-xinabox-cw02-wifi-xchip-zerynth-get-started/cw02_sl06_ip01.png)
+![cw02_sl06_ip01.png](media/iot-hub-xinabox-cw02-wifi-xchip-arduino-get-started/cw02_sl06_ip01.png)
 
 ## Don't have a real [SL06(APDS-9960)](http://wiki.xinabox.cc/SL06_-_Gesture) sensor?
 
