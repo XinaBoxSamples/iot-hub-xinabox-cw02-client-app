@@ -1,6 +1,6 @@
 ---
 services: iot-hub
-platforms: zerynth
+platforms: arduino
 author: bb
 ---
 
